@@ -8,6 +8,13 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
+ * * Please write a WordPress plugin that demonstrates interacting with the
+ * * WordPress plugin API, object oriented programming and has some basic interaction
+ * * with the WordPress database. The plugin can do anything you would like. n
+ * * include a link to a downloadable ZIP distribution of your WordPress plugin in the
+ * * text field below. Note that the code must be 100% authored by you. We will
+ * * include this in the criteria we use to evaluate your job application.
+ *
  * @link              nobodyfamous.ca
  * @since             1.0.0
  * @package           Wm_Weatherapi
